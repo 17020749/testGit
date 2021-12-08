@@ -14,3 +14,9 @@ git commit -m "message"
 git push
 
 
+git cho làm việc nhóm:
+git branch
+git branch newBranch
+git checkout newBranch
+
+

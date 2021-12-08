@@ -1,0 +1,16 @@
+tạo git mới:
+làn 1:
+git init
+git add .
+git commit -m "mesage"
+git branch -M main
+git remote add origin https://github.com/17020749/testGit.git
+git push -u origin main
+
+
+lần 2 -> n: M = modify
+git add .
+git commit -m "message"
+git push
+
+

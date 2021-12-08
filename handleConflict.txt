@@ -1,3 +1,11 @@
 ok đến cái conflict:
 conflict = 2 người cùng sửa 1 nội dung 
 ok, 2 người đã sửa cùng 1 file.
+
+
+bây giờ phải lựa chọn bro muốn giữ cái nào?
+phiên bản nào?
+của bro? current change
+hay của người khác? incoming change
+
+chọn 1 trong 2 là đã xử lý conflic xong

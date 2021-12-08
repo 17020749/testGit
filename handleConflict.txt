@@ -1,0 +1,3 @@
+ok đến cái conflict:
+conflict = 2 người cùng sửa 1 nội dung 
+ok, 2 người đã sửa cùng 1 file.

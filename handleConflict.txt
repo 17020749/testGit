@@ -1,0 +1,2 @@
+Bro bên kia đnag sửa gì đó.
+Bên này coi như là người khác, cũng sửa trong file handleConfflic.txt

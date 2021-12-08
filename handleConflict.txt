@@ -9,3 +9,9 @@ của bro? current change
 hay của người khác? incoming change
 
 chọn 1 trong 2 là đã xử lý conflic xong
+
+ok làm nhiều là quen
+còn cái git branch nữa, t nghĩ để sau, kẻo bro bội thựcc
+từ đã,m thao tác git pull code của m vè code của t xem như nào
+
+ok. git pull = lấy từ trên mạng về
